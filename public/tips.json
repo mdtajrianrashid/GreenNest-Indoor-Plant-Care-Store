@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Watering",
+    "text": "Water sparingly — let the topsoil dry out between waterings."
+  },
+  {
+    "id": 2,
+    "title": "Sunlight",
+    "text": "Most indoor plants prefer bright, indirect light."
+  },
+  {
+    "id": 3,
+    "title": "Fertilizer",
+    "text": "Feed lightly in the growing season (spring-summer)."
+  },
+  {
+    "id": 4,
+    "title": "Humidity",
+    "text": "Increase humidity for tropical plants by misting leaves."
+  },
+  {
+    "id": 5,
+    "title": "Potting",
+    "text": "Repot every 1–2 years to ensure healthy root growth."
+  }
+]

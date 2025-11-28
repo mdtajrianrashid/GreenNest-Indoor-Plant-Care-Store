@@ -1,0 +1,110 @@
+[
+  {
+    "plantId": 1,
+    "plantName": "Snake Plant",
+    "category": "Air Purifier",
+    "price": 18,
+    "rating": 4.8,
+    "availableStock": 10,
+    "careLevel": "Easy",
+    "description": "A hardy plant that purifies indoor air and thrives in low light.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlfDzSK-P0oshgXwJ5sDbgb-XmBVV0JS8GrQ&s",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 2,
+    "plantName": "ZZ Plant",
+    "category": "Low Light",
+    "price": 22,
+    "rating": 4.7,
+    "availableStock": 8,
+    "careLevel": "Easy",
+    "description": "Glossy leaves, tolerant to neglect and low light — great for beginners.",
+    "image": "https://www.gardenhealth.com/wp-content/uploads/2023/12/zz-plant-1024x1024.jpg",
+    "providerName": "GreenWorks"
+  },
+  {
+    "plantId": 3,
+    "plantName": "Fiddle Leaf Fig",
+    "category": "Statement",
+    "price": 65,
+    "rating": 4.5,
+    "availableStock": 3,
+    "careLevel": "Medium",
+    "description": "Bold large leaves that make a striking indoor focal point.",
+    "image": "https://cdn.shopify.com/s/files/1/0553/5711/2435/files/dwarf-ficus-lyrata-fiddle-leaf-fig-plant-pot-included-1-trothic-original-imafwah9pmdnqwkp_480x480.webp?v=1711700385",
+    "providerName": "StudioLeaf"
+  },
+  {
+    "plantId": 4,
+    "plantName": "Pothos",
+    "category": "Trailing",
+    "price": 12,
+    "rating": 4.6,
+    "availableStock": 15,
+    "careLevel": "Easy",
+    "description": "Fast-growing trailing vine — perfect for shelves and hanging baskets.",
+    "image": "https://images.squarespace-cdn.com/content/v1/54fbb611e4b0d7c1e151d22a/1610489398028-Q5JAILEOCGTE26U0MV36/golden-pothos-plant.jpg",
+    "providerName": "HomeRoots"
+  },
+  {
+    "plantId": 5,
+    "plantName": "Monstera Deliciosa",
+    "category": "Tropical",
+    "price": 58,
+    "rating": 4.9,
+    "availableStock": 5,
+    "careLevel": "Medium",
+    "description": "Iconic split leaves that bring a tropical vibe to any room.",
+    "image": "https://www.ugaoo.com/cdn/shop/files/2_430a864d-f4ed-46d0-b5e6-ff0d55c422db.jpg?v=1706608270",
+    "providerName": "TropicHouse"
+  },
+  {
+    "plantId": 6,
+    "plantName": "Peace Lily",
+    "category": "Flowering",
+    "price": 24,
+    "rating": 4.4,
+    "availableStock": 9,
+    "careLevel": "Easy",
+    "description": "Elegant white blooms and air-purifying qualities.",
+    "image": "https://www.mydomaine.com/thmb/N3StDx3PyGbF0Pwafv-P9-qiNZU=/900x0/filters:no_upscale():strip_icc()/1566417254329_20190821-1566417255317-b9314f1d9f7a4668a466c5ffb1913a8f.jpg",
+    "providerName": "Bloom & Co"
+  },
+  {
+    "plantId": 7,
+    "plantName": "Aloe Vera",
+    "category": "Medicinal",
+    "price": 16,
+    "rating": 4.7,
+    "availableStock": 12,
+    "careLevel": "Easy",
+    "description": "Soothing succulent known for healing properties and low maintenance.",
+    "image": "https://www.architecturalplants.com/wp-content/uploads/2020/09/Aloe-b.jpg",
+    "providerName": "HealingGreens"
+  },
+  {
+    "plantId": 8,
+    "plantName": "Boston Fern",
+    "category": "Air Purifier",
+    "price": 20,
+    "rating": 4.3,
+    "availableStock": 7,
+    "careLevel": "Medium",
+    "description": "Lush fronds that thrive in humidity — great for bathrooms or kitchens.",
+    "image": "https://www.jacksonandperkins.com/images/xxl/28757.jpg",
+    "providerName": "FernHaven"
+  },
+  {
+    "plantId": 9,
+    "plantName": "Calathea Orbifolia",
+    "category": "Decorative",
+    "price": 34,
+    "rating": 4.6,
+    "availableStock": 6,
+    "careLevel": "Medium",
+    "description": "Beautiful striped leaves with tropical appeal, loves indirect light.",
+    "image": "https://bellr.co.uk/cdn/shop/files/bellr5.2.24-132.jpg?v=1714646792",
+    "providerName": "LeafySpaces"
+  }
+]
