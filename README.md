@@ -104,8 +104,8 @@ This project was developed as part of **My React Projects**.
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone your_repo_link_here
-cd your_project_name
+git clone https://github.com/mdtajrianrashid/GreenNest-Indoor-Plant-Care-Store.git
+cd GreenNest-Indoor-Plant-Care-Store
 npm install
 npm run dev
 
