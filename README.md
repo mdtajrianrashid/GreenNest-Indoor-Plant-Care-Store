@@ -3,16 +3,15 @@
 GreenNest is a clean, modern, and user-friendly single-page web application designed for plant lovers.  
 Users can explore indoor plants, read care tips, book consultations, and manage their profiles using Firebase Authentication.
 
-This project was developed as part of **Programming Hero – Assignment 09**.
+This project was developed as part of **My React Projects**.
 
 ---
 
 ## 🚀 Live Demo  
-👉 *Add your live Netlify link here*
+👉 [https://green-nest-indoor-plant-care-store.vercel.app/]
 
 ## 📦 GitHub Repository  
-👉 *Add your GitHub repo link here*
-
+👉 [https://github.com/mdtajrianrashid/GreenNest-Indoor-Plant-Care-Store]
 ---
 
 # 📌 Features Overview
